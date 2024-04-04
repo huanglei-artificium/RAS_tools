@@ -1,0 +1,8 @@
+/mnt/archgen/public_data/HGDP+1KG_callset/stats/POS.all_filtered/PS.HGDP+1000G.txt	CHR,POS
+/mnt/archgen/public_data/HGDP+1KG_callset/stats/POS.all_filtered/count/AFR_all.freq.txt	AFR_all(1)
+/mnt/archgen/public_data/HGDP+1KG_callset/stats/POS.all_filtered/count/CEU_norelated.frac.txt	CEU~num(242),CEU~deno(242)
+/mnt/archgen/public_data/HGDP+1KG_callset/stats/POS.all_filtered/count/FIN_norelated.frac.txt	FIN~num(196),FIN~deno(196)
+/mnt/archgen/public_data/HGDP+1KG_callset/stats/POS.all_filtered/count/GBR_norelated.frac.txt	GBR~num(176),GBR~deno(176)
+/mnt/archgen/public_data/HGDP+1KG_callset/stats/POS.all_filtered/count/IBS_norelated.frac.txt	IBS~num(208),IBS~deno(208)
+/mnt/archgen/public_data/HGDP+1KG_callset/stats/POS.all_filtered/count/TSI_norelated.frac.txt	TSI~num(206),TSI~deno(206)
+/mnt/archgen/public_data/HGDP+1KG_callset/stats/POS.all_filtered/EIGENSTRAT_poseidon/Adygei_norelated/Adygei_norelated.geno	
