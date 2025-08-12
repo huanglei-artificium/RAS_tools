@@ -1,2 +1,0 @@
-/mnt/archgen/public_data/HGDP+1KG_callset/stats/POS.all_filtered.AFR_mono.5EUR/CHR.POS.ALT.REF.AFR_all.5EUR.EUR5_frac.count1028_round.EUR_asc_min258.txt	/mnt/archgen/public_data/HGDP+1KG_callset/stats/POS.all_filtered.AFR_mono.5EUR/CHR.POS.ALT.REF.AFR_all.5EUR.EUR5_frac.count1028_round.header
-/mnt/archgen/public_data/HGDP+1KG_callset/stats/POS.all_filtered.AFR_mono.5EUR/geno.HGDP+1000G.EUR_asc_min258/Adygei_norelated.geno	/mnt/archgen/public_data/HGDP+1KG_callset/stats/POS.all_filtered.AFR_mono.5EUR/Adygei.header
