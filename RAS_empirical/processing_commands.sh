@@ -1,3 +1,5 @@
+# This script cannot be run directly. It is a notebook containing the relevant commands involving the preprocessing and running the tools.
+
 originally see /mnt/archgen/users/lei_huang/ancient_British/f4.Out.EUR_asc.2Test/*
 
 # ascertained
