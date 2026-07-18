@@ -1,0 +1,26 @@
+Package: RAStools
+Type: Package
+Title: Rare Allele Sharing Block Statistics
+Version: 0.1.0
+Authors@R: person("Lei", "Huang", role = c("aut", "cre"), email = "lei.huang@example.com")
+Author: Lei Huang
+Maintainer: Lei Huang <lei.huang@example.com>
+Description: Computes block-based rare allele sharing statistics from population
+    allele frequency and EIGENSTRAT genotype inputs. The package supports
+    optional custom population definitions, site filters, frequency ascertainment
+    bins, and jackknife summarization of block-level results.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends:
+    R (>= 4.1.0)
+Imports:
+    data.table,
+    dplyr,
+    magrittr,
+    purrr,
+    readr,
+    tidyr,
+    tools,
+    utils

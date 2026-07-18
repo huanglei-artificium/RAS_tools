@@ -1,0 +1,5 @@
+export(get_blockf)
+export(get_f_from_fblock)
+export(get_mean_and_std)
+importFrom(magrittr,"%>%")
+importFrom(dplyr,filter)

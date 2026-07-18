@@ -1,0 +1,10 @@
+utils::globalVariables(c(
+    ".",
+    "Nr_sites_all",
+    "Nr_sites_nonmissing",
+    "block_id",
+    "derived_freq_level",
+    "derived_freq_level_max",
+    "f",
+    "fsum"
+))

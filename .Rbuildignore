@@ -1,0 +1,11 @@
+^DOCUMENTATION[.]md$
+^RAS_run[.]R$
+^src$
+^legacy_src$
+^data$
+^test_example$
+^[.][.]Rcheck$
+^[^/]*[.]Rcheck$
+^RAStools_.*[.]tar[.]gz$
+^[.]agents$
+^[.]codex$

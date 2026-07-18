@@ -1,0 +1,15 @@
+./data/POS.all_filtered/PS.txt	CHR,POS
+./data/POS.all_filtered/count/AFR_all.freq.txt	AFR_all(1)
+./data/POS.all_filtered/count/CEU_norelated.frac.txt	CEU~num(242),CEU~deno(242)
+./data/POS.all_filtered/count/FIN_norelated.frac.txt	FIN~num(196),FIN~deno(196)
+./data/POS.all_filtered/count/GBR_norelated.frac.txt	GBR~num(176),GBR~deno(176)
+./data/POS.all_filtered/count/IBS_norelated.frac.txt	IBS~num(208),IBS~deno(208)
+./data/POS.all_filtered/count/TSI_norelated.frac.txt	TSI~num(206),TSI~deno(206)
+./data/POS.all_filtered/EIGENSTRAT_poseidon/Adygei_norelated/Adygei_norelated.geno
+./data/POS.all_filtered/EIGENSTRAT_poseidon/Basque_norelated/Basque_norelated.geno
+./data/POS.all_filtered/EIGENSTRAT_poseidon/French_norelated/French_norelated.geno
+./data/POS.all_filtered/EIGENSTRAT_poseidon/Italian_norelated/Italian_norelated.geno
+./data/POS.all_filtered/EIGENSTRAT_poseidon/Orcadian_norelated/Orcadian_norelated.geno
+./data/POS.all_filtered/EIGENSTRAT_poseidon/Russian_norelated/Russian_norelated.geno
+./data/POS.all_filtered/EIGENSTRAT_poseidon/Sardinian_norelated/Sardinian_norelated.geno
+./data/POS.all_filtered/EIGENSTRAT_poseidon/Tuscan_norelated/Tuscan_norelated.geno

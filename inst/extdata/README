@@ -1,0 +1,3 @@
+Large frequency and genotype files are not bundled with the installed package.
+Use get_blockf() with paths to your own manifest, population definition, and
+frequency-bin files.
